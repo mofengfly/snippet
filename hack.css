@@ -2,4 +2,4 @@
  background-color:yellow\0; \0 ie8/9
  +background-color:pink; + ie7
  _background-color:orange;
-   :root #test { background-color:purple\9; } :root是给ie9的
+ :root #test { background-color:purple\9; } :root是给ie9的
